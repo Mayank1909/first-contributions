@@ -12,6 +12,7 @@
 - [Dweep Patil](https://github.com/DweepPatil)
 - Dvir Berlo
 - Erika Lee
+- Mayank Joshi
 - Alex English 
 - Haritarth
 - Joshua Melo
